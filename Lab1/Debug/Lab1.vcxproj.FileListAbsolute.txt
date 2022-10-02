@@ -1,0 +1,9 @@
+D:\Мои вещи\Схрон\Учёба\4 курс\ООП\Cpp\CppProjects\Lab1\Debug\Lab1.vcxprojAssemblyReference.cache
+D:\Мои вещи\Схрон\Учёба\4 курс\ООП\Cpp\CppProjects\Lab1\Debug\Lab1.MyForm.resources
+D:\Мои вещи\Схрон\Учёба\4 курс\ООП\Cpp\CppProjects\Lab1\Debug\Lab1.vcxproj.GenerateResource.cache
+D:\Мои вещи\Схрон\Учёба\4 курс\8 семестр\Cpp\CppProjects\Lab1\Debug\Lab1.vcxprojAssemblyReference.cache
+D:\Мои вещи\Схрон\Учёба\4 курс\8 семестр\Cpp\CppProjects\Lab1\Debug\Lab1.MyForm.resources
+D:\Мои вещи\Схрон\Учёба\4 курс\8 семестр\Cpp\CppProjects\Lab1\Debug\Lab1.vcxproj.GenerateResource.cache
+D:\Мои вещи\Схрон\Учёба\Магистратура\Выч Сист\Курсач\CppProjects\Lab1\Debug\Lab1.vcxprojAssemblyReference.cache
+D:\Мои вещи\Схрон\Учёба\Магистратура\Выч Сист\Курсач\CppProjects\Lab1\Debug\Lab1.MyForm.resources
+D:\Мои вещи\Схрон\Учёба\Магистратура\Выч Сист\Курсач\CppProjects\Lab1\Debug\Lab1.vcxproj.GenerateResource.cache

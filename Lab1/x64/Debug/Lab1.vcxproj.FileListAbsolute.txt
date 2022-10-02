@@ -1,0 +1,15 @@
+D:\Мои вещи\Схрон\Учёба\Магистратура\Выч Сист\Курсач\CppProjects\Lab1\x64\Debug\Lab1.vcxprojAssemblyReference.cache
+D:\Мои вещи\Схрон\Учёба\Магистратура\Выч Сист\Курсач\CppProjects\Lab1\x64\Debug\Lab1.MyForm.resources
+D:\Мои вещи\Схрон\Учёба\Магистратура\Выч Сист\Курсач\CppProjects\Lab1\x64\Debug\Lab1.vcxproj.GenerateResource.cache
+D:\Мои вещи\Схрон\Учёба\Магистратура\Выч Сист\Курсач\Фильтрация\Lab1\x64\Debug\Lab1.vcxprojAssemblyReference.cache
+D:\Мои вещи\Схрон\Учёба\Магистратура\Выч Сист\Курсач\Фильтрация\Lab1\x64\Debug\Lab1.MyForm.resources
+D:\Мои вещи\Схрон\Учёба\Магистратура\Выч Сист\Курсач\Фильтрация\Lab1\x64\Debug\Lab1.vcxproj.GenerateResource.cache
+C:\Users\Беды с неймингом\Desktop\Фильтры\Фильтрация\Lab1\x64\Debug\Lab1.vcxproj.AssemblyReference.cache
+C:\Users\Беды с неймингом\Desktop\Фильтры\Фильтрация\Lab1\x64\Debug\Lab1.MyForm.resources
+C:\Users\Беды с неймингом\Desktop\Фильтры\Фильтрация\Lab1\x64\Debug\Lab1.vcxproj.GenerateResource.cache
+C:\Users\Беды с неймингом\Desktop\Учеба\1 курс\Выч сист\Фильтры\Фильтрация\Lab1\x64\Debug\Lab1.vcxproj.AssemblyReference.cache
+C:\Users\Беды с неймингом\Desktop\Учеба\1 курс\Выч сист\Фильтры\Фильтрация\Lab1\x64\Debug\Lab1.MyForm.resources
+C:\Users\Беды с неймингом\Desktop\Учеба\1 курс\Выч сист\Фильтры\Фильтрация\Lab1\x64\Debug\Lab1.vcxproj.GenerateResource.cache
+C:\Users\Беды с неймингом\Desktop\Фильтрация\Lab1\x64\Debug\Lab1.vcxproj.AssemblyReference.cache
+C:\Users\Беды с неймингом\Desktop\Фильтрация\Lab1\x64\Debug\Lab1.MyForm.resources
+C:\Users\Беды с неймингом\Desktop\Фильтрация\Lab1\x64\Debug\Lab1.vcxproj.GenerateResource.cache

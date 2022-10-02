@@ -1,0 +1,10 @@
+﻿  MyForm.cpp
+D:\Мои вещи\Схрон\Учёба\Магистратура\Выч Сист\Курсач\CppProjects\Lab1\MyForm.h(473,15): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+D:\Мои вещи\Схрон\Учёба\Магистратура\Выч Сист\Курсач\CppProjects\Lab1\MyForm.h(474,31): warning C4244: =: преобразование "double" в "byte", возможна потеря данных
+D:\Мои вещи\Схрон\Учёба\Магистратура\Выч Сист\Курсач\CppProjects\Lab1\MyForm.h(538,15): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+D:\Мои вещи\Схрон\Учёба\Магистратура\Выч Сист\Курсач\CppProjects\Lab1\MyForm.h(539,31): warning C4244: =: преобразование "double" в "byte", возможна потеря данных
+D:\Мои вещи\Схрон\Учёба\Магистратура\Выч Сист\Курсач\CppProjects\Lab1\MyForm.h(485): warning C4101: size: неиспользованная локальная переменная
+D:\Мои вещи\Схрон\Учёба\Магистратура\Выч Сист\Курсач\CppProjects\Lab1\MyForm.h(551,25): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Мои вещи\Схрон\Учёба\Магистратура\Выч Сист\Курсач\CppProjects\Lab1\MyForm.h(604,26): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Lab1.vcxproj -> D:\Мои вещи\Схрон\Учёба\Магистратура\Выч Сист\Курсач\CppProjects\Debug\Lab1.exe
